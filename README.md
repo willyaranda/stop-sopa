@@ -1,4 +1,10 @@
-# STOP SOPA
+Versión modificada para mozilla-hispano.
+
+Preview: http://bengoarocandio.com/stop-sopa/index-es-ar.html
+
+# README original:
+
+## STOP SOPA
 
 This repository is my take on "going dark" for the [January 18 blackout to protest SOPA](http://sopastrike.com/).
 
